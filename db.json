@@ -12,7 +12,7 @@
     "type":"kitchen"
   },
 
-  "food-items": [
+  "food_items": [
     { "id": 1, "name": "Chicken Biriyani","short_name":"C-Biriyani", "category": 1, "price":120 },
     { "id": 2, "name": "Mutton Biriyani","short_name":"M-Biriyani", "category": 1, "price":140 },
     { "id": 3, "name": "Beef Biriyani","short_name":"B-Biriyani", "category": 1, "price":90 },
