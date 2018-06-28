@@ -1,0 +1,18 @@
+{
+  "waiter": {
+    "table": 1,
+    "type": "waiter",
+    "name": "Alex"
+  },
+  "message": "success",
+  "status": 1
+},
+
+{
+  "kitchen":{
+    "type": "kitchen",
+    "name": "Bob"
+  },
+  "message": "success",
+  "status": 1
+},
