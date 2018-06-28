@@ -10,5 +10,17 @@
     "message":"success",
     "name": "Blob",
     "type":"kitchen"
-  }
+  },
+
+  "food-items": [
+    { "id": 1, "name": "Chicken Biriyani","short_name":"C-Biriyani", "category": 1, "price":120 },
+    { "id": 2, "name": "Mutton Biriyani","short_name":"M-Biriyani", "category": 1, "price":140 },
+    { "id": 3, "name": "Beef Biriyani","short_name":"B-Biriyani", "category": 1, "price":90 },
+
+    { "id": 3, "name": "Apple Juice","short_name":"Apple Juice", "category": 2, "price":100 },
+    { "id": 3, "name": "Orange Juice","short_name":"Orange Juice", "category": 2, "price":90 },
+    { "id": 3, "name": "Mango Juice","short_name":"Mango Juice", "category": 2, "price":90 },
+
+    
+  ],
 }
